@@ -9,8 +9,8 @@ div.html-caption-container {
 
 .section-header-container {
 	width:550px;
-	margin-left:auto;
-	margin-right:auto;
+	margin-left:auto !important;
+	margin-right:auto !important;
 }
 
 div.responsive {
