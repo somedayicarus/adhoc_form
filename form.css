@@ -3,6 +3,15 @@ form {
 	padding:30px 0;
 }
 
+div.html-caption-container {
+	max-width:100%;
+}
+
+.section-header-container {
+	width:550px;
+	
+}
+
 div.responsive {
 	width:100%;
 }
@@ -21,7 +30,8 @@ div.form-row:first-of-type {
 
 div.form-row {
 	width:550px;
-	
+	margin:4px auto;
+
 }
 
 h1 {
