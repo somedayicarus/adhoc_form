@@ -365,6 +365,9 @@ div.responsive span.field-required {
 
 
 @media(max-width:600px) {
+	div.form-row {
+		width:100%;
+	}
 	main#body {
 		padding:0;
 	}
